@@ -20,3 +20,5 @@ Cybersecurity and cloud-focused roles with strong system and security operations
 
 Connect:
 - LinkedIn: www.linkedin.com/in/anthonyitproready
+
+  Documenting real progress, not just learning.
